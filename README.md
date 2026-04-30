@@ -2,8 +2,8 @@
  
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tylerr-r&show_icons=true&theme=dark&bg_color=0d1117&border_color=1e3a5f&text_color=e6edf3&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tylerr-r&show_icons=true&bg_color=ffffff&border_color=000000&text_color=000000&icon_color=000000)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerr-r&theme=dark&bg_color=0d1117&border_color=1e3a5f&text_color=e6edf3&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tylerr-r&bg_color=ffffff&border_color=000000&text_color=000000&layout=compact)
  
 </div>
